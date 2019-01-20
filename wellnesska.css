@@ -1,0 +1,10 @@
+#grad {
+  background-image: linear-gradient(#11bdf7,green);
+}
+
+.scroll{
+  height:40px;
+  width:90px;
+  margin-left: auto;
+  margin-right: auto;
+}
